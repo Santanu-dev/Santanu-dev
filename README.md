@@ -4,7 +4,8 @@
 - I’m @Santanu-dev
  
 - 💞️ I love to collaborate on Interesting ReactJs based web dev projects
-- 
+- I love to build new projects and learn new technologies 
+
 - 📫 feel free to reach out for collaboration...
 - 
 ![image](https://user-images.githubusercontent.com/106900914/191236889-644e4221-8e74-433e-80f0-52eef63c4cb8.png) 
