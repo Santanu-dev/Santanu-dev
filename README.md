@@ -17,11 +17,10 @@
 
 - 📫 feel free to reach out for collaboration...
 - 
-![image](https://user-images.githubusercontent.com/106900914/191236889-644e4221-8e74-433e-80f0-52eef63c4cb8.png) 
--  https://www.linkedin.com/in/santanu-barman-43b762181/
--  
-![image](https://user-images.githubusercontent.com/106900914/191237027-e9c41191-3150-4c5e-87fc-51b0438a85a4.png)
--  barmansantanu11@gmail.com
+
+- ![output-onlinepngtools (7)](https://user-images.githubusercontent.com/106900914/191241990-4a8fb855-b9c7-45e2-af1a-c15ab0b0e552.png) https://www.linkedin.com/in/santanu-barman-43b762181/  
+
+- ![output-onlinepngtools (8)](https://user-images.githubusercontent.com/106900914/191242154-4c66da4c-bfae-46e8-a7a8-2020d9fcda3a.png) barmansantanu11@gmail.com
 
 <!---
 Santanu-dev/Santanu-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
